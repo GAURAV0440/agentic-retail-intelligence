@@ -184,3 +184,6 @@ This project demonstrates how AI agents can be built using:
 - clear logic  
 
 instead of relying on guess-based responses.
+
+### Loom Screen Recording
+https://www.loom.com/share/2155cc2260c54bbab4db267e4fe0656c
